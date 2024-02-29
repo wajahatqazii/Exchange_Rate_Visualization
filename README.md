@@ -1,5 +1,6 @@
 ## Exchange Rate Analysis with Interactive Visualizations
-
+ Colab notebook for analyzing exchange rate data and generating interactive visualizations.
+[![Open Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wajahatqazii/Exchange_Rate_Visualization/blob/main/exchange_rate_analysis.ipynb)
 ### Overview:
 This Colab notebook analyzes exchange rate data from a provided dataset, focusing on the years 2022, 2023, and 2024. It calculates the percent change in exchange rates for each currency pair between these years and visualizes the trends using interactive and colorful plots.
 
@@ -8,7 +9,7 @@ This Colab notebook analyzes exchange rate data from a provided dataset, focusin
 - Libraries: pandas, fastparquet, matplotlib
 
 ### How to Use:
-1. Open the Colab notebook in Google Colab.
+1. Open the Colab notebook(exchange_rate_analysis.ipynb) it's linked you can run in Google Colab.
 2. Ensure the required libraries are installed using `!pip install pandas fastparquet matplotlib`.
 3. Run the cells in the notebook.
 4. Interactive plots will be displayed showcasing exchange rate trends and percent changes.
